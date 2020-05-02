@@ -1,7 +1,7 @@
 #ifndef _GEORGIABOLDITALIC_H
 #define _GEORGIABOLDITALIC_H
 
-#include <DisplayCore.h>
+#include <Cariad.h>
 
 namespace Fonts {
     extern const uint8_t GeorgiaBoldItalic8[];
